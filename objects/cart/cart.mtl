@@ -1,0 +1,130 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl Cart_Handles_001
+Ka 1.000000 1.000000 1.000000
+Ks 0.283333 0.283333 0.283333
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Handles_Base_Color.png
+map_Ns Cart_Handles_Roughness.png
+map_refl Cart_Handles_Metallic.png
+map_Bump -bm 1.000000 Cart_Handles_Normal_DirectX.png
+
+newmtl Cart_Main.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Main.001_Base_Color.png
+map_Ns Cart_Main.001_Roughness.png
+map_refl Cart_Main.001_Metallic.png
+map_Bump -bm 1.000000 Cart_Main.001_Normal_DirectX.png
+
+newmtl Cart_Poles.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Poles.001_Base_Color.png
+map_Ns Cart_Poles.001_Roughness.png
+map_refl Cart_Poles.001_Metallic.png
+map_Bump -bm 1.000000 Cart_Poles.001_Normal_DirectX.png
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Wheel_Shaft_001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wheel_Shaft.001_Base_Color.png
+map_Ns Wheel_Shaft.001_Roughness.png
+map_refl Wheel_Shaft.001_Metallic.png
+map_Bump -bm 1.000000 Wheel_Shaft.001_Normal_DirectX.png

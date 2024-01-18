@@ -1,0 +1,2391 @@
+# Blender 3.6.5 MTL File: 'proiect.blend'
+# www.blender.org
+
+newmtl Barrel_Stand
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Barrel_Stand_Base_Color.png
+map_Ns Barrel_Stand_Roughness.png
+map_refl Barrel_Stand_Metallic.png
+map_Bump -bm 1.000000 Barrel_Stand_Normal_DirectX.png
+
+newmtl Bottom_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Column_low_Bottom_New_BaseColor.png
+map_Ns Well_Column_low_Bottom_New_Roughness.png
+map_refl Well_Column_low_Bottom_New_Metallic.png
+map_Bump -bm 0.900000 Well_Column_low_Bottom_New_Normal.png
+
+newmtl Building_Steps
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Building_Floor_low_Building_Steps_BaseColor.png
+map_Ns Building_Floor_low_Building_Steps_Roughness.png
+map_refl Building_Floor_low_Building_Steps_Metallic.png
+
+newmtl Canaan_Dog
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 13466_Canaan_Dog_diff.jpg
+
+newmtl Canopy_1
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Black_White_Dirty.jpg
+
+newmtl Canopy_2
+Ns 966.944397
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Red_White_Dirty.jpg
+
+newmtl Canopy_3
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Blue_White_Dirty.jpg
+
+newmtl Canopy_4
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Yellow_White_Dirty.jpg
+
+newmtl Canopy_Frame
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Canopy_Frame_Base_Color.png
+map_Ns Canopy_Frame_Roughness.png
+map_refl Canopy_Frame_Metallic.png
+map_Bump -bm 1.000000 Canopy_Frame_Normal_DirectX.png
+
+newmtl Cart_Handles_001
+Ka 1.000000 1.000000 1.000000
+Ks 0.283333 0.283333 0.283333
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Handles_Base_Color.png
+map_Ns Cart_Handles_Roughness.png
+map_refl Cart_Handles_Metallic.png
+map_Bump -bm 1.000000 Cart_Handles_Normal_DirectX.png
+
+newmtl Cart_Main.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Main.001_Base_Color.png
+map_Ns Cart_Main.001_Roughness.png
+map_refl Cart_Main.001_Metallic.png
+map_Bump -bm 1.000000 Cart_Main.001_Normal_DirectX.png
+
+newmtl Cart_Poles.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Poles.001_Base_Color.png
+map_Ns Cart_Poles.001_Roughness.png
+map_refl Cart_Poles.001_Metallic.png
+map_Bump -bm 1.000000 Cart_Poles.001_Normal_DirectX.png
+
+newmtl Cart_Side_Panel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Side_Panel_Base_Color.png
+map_Ns Cart_Side_Panel_Roughness.png
+map_refl Cart_Side_Panel_Metallic.png
+map_Bump -bm 1.000000 Cart_Side_Panel_Normal_DirectX.png
+
+newmtl Cart_Wheels_001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cart_Wheels.001_Base_Color.png
+map_Ns Cart_Wheels.001_Roughness.png
+map_refl Wheel_Shaft.001_Metallic.png
+map_Bump -bm 1.000000 Cart_Wheels.001_Normal_DirectX.png
+
+newmtl Col_02_Capital_Bottom
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Col_02_Col_02_Capital_Bottom_BaseColor.png
+map_Ns Col_02_Col_02_Capital_Bottom_Roughness.png
+map_refl Col_02_Col_02_Capital_Bottom_Metallic.png
+map_Bump -bm 1.000000 Col_02_Col_02_Capital_Bottom_Normal.png
+
+newmtl Col_02_Capital_Design
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Col_02_Col_02_Capital_Design_BaseColor.png
+map_Ns Col_02_Col_02_Capital_Design_Roughness.png
+map_refl Col_02_Col_02_Capital_Design_Metallic.png
+map_Bump -bm 1.000000 Col_02_Col_02_Capital_Design_Normal.png
+
+newmtl Col_02_Capital_Top
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Col_02_Col_02_Capital_Top_BaseColor.png
+map_Ns Col_02_Col_02_Capital_Top_Roughness.png
+map_refl Col_02_Col_02_Capital_Top_Metallic.png
+map_Bump -bm 1.000000 Col_02_Col_02_Capital_Top_Normal.png
+
+newmtl Col_02_Main
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Col_02_Col_02_Main_BaseColor.png
+map_Ns Col_02_Col_02_Main_Roughness.png
+map_refl Col_02_Col_02_Main_Metallic.png
+map_Bump -bm 1.000000 Col_02_Col_02_Main_Normal.png
+
+newmtl Col_Taper
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Col_Taper_low_Col_Taper_BaseColor.png
+map_Ns Col_Taper_low_Col_Taper_Roughness.png
+map_refl Col_Taper_low_Col_Taper_Metallic.png
+
+newmtl Door_Handle
+Ns 102.399994
+Ka 1.000000 1.000000 1.000000
+Kd 0.027654 0.022855 0.017602
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Facia_Decor
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Column_Decor_low_Facia_Decor_BaseColor.png
+map_Ns Column_Decor_low_Facia_Decor_Roughness.png
+map_refl Column_Decor_low_Facia_Decor_Metallic.png
+map_Bump -bm 1.000000 Column_Decor_low_Facia_Decor_Normal.png
+
+newmtl Facia_Stones
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Top_Stones_Decor_low_Facia_Stones_BaseColor.png
+map_Ns Top_Stones_Decor_low_Facia_Stones_Roughness.png
+map_refl Top_Stones_Decor_low_Facia_Stones_Metallic.png
+map_Bump -bm 1.000000 Top_Stones_Decor_low_Facia_Stones_Normal.png
+
+newmtl Flower_MatSG
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Flower_Normal.png
+
+newmtl Fountain_Main
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Fountain_low_Fountain_Main_BaseColor.png
+map_Ns Fountain_low_Fountain_Main_Roughness.png
+map_refl Fountain_low_Fountain_Main_Metallic.png
+map_Bump -bm 1.000000 Fountain_low_Fountain_Main_Normal.png
+
+newmtl Fountain_Spire
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Fountain_low_Fountain_Spire_BaseColor.png
+map_Ns Fountain_low_Fountain_Spire_Roughness.png
+map_refl Fountain_low_Fountain_Spire_Metallic.png
+map_Bump -bm 1.000000 Fountain_low_Fountain_Spire_Normal.png
+
+newmtl House_1_Doorframe
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_1_Building_House_1_Doorframe_BaseColor.png
+map_Ns House_1_Building_House_1_Doorframe_Roughness.png
+map_refl House_1_Building_House_1_Doorframe_Metallic.png
+map_Bump -bm 1.000000 House_1_Building_House_1_Doorframe_Normal.png
+
+newmtl House_1_Walls
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_1_Building_House_1_Walls_BaseColor.png
+map_Ns House_1_Building_House_1_Walls_Roughness.png
+map_refl House_1_Building_House_1_Walls_Metallic.png
+
+newmtl House_1_Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl House_2_Doorway
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_2_House_2_Doorway_BaseColor.png
+map_Ns House_2_House_2_Doorway_Roughness.png
+map_refl House_2_House_2_Doorway_Metallic.png
+map_Bump -bm 1.000000 House_2_House_2_Doorway_Normal.png
+
+newmtl House_2_Main
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_2_House_2_Main_BaseColor.png
+map_Ns House_2_House_2_Main_Roughness.png
+map_refl House_2_House_2_Main_Metallic.png
+
+newmtl House_2_Win_Frame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl House_2_Wood
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+map_Ns House_01_Wood_House_1_Wood_Roughness.png
+map_refl House_01_Wood_House_1_Wood_Metallic.png
+map_Bump -bm 1.000000 House_01_Wood_House_1_Wood_Normal.png
+
+newmtl House_3_Steps
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_3_Steps_House_3_Steps_BaseColor.png
+map_Ns House_3_Steps_House_3_Steps_Roughness.png
+map_refl House_3_Steps_House_3_Steps_Metallic.png
+
+newmtl House_3_main
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_3_Main_House_3_main_BaseColor.png
+map_Ns House_3_Main_House_3_main_Roughness.png
+map_refl House_3_Main_House_3_main_Metallic.png
+
+newmtl House_4_Walls
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_4_House_4_Walls_BaseColor.png
+map_Ns House_4_House_4_Walls_Roughness.png
+map_refl House_4_House_4_Walls_Metallic.png
+map_Bump -bm 1.000000 House_4_House_4_Walls_Normal.png
+
+newmtl Large_Jug_Copper
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Jug_Body_Base_Color.png
+map_Ns Jug_Body_Roughness.png
+map_refl Jug_Body_Metallic.png
+map_Bump -bm 1.000000 Jug_Body_Normal_DirectX.png
+
+newmtl Large_Jug_Handles
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Jug_Handles_Base_Color.png
+map_Ns Jug_Handles_Roughness.png
+map_refl Jug_Handles_Metallic.png
+map_Bump -bm 1.000000 Jug_Handles_Normal_DirectX.png
+
+newmtl Large_Jug_Handles.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Jug_Handles_Base_Color.png
+map_Ns Jug_Handles_Roughness.png
+map_refl Jug_Handles_Metallic.png
+map_Bump -bm 1.000000 Jug_Handles_Normal_DirectX.png
+
+newmtl Large_Jug_Handles_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Jug_Handles_Base_Color.png
+map_Ns Jug_Handles_Roughness.png
+map_refl Jug_Handles_Metallic.png
+map_Bump -bm 1.000000 Jug_Handles_Normal_DirectX.png
+
+newmtl Leaf_MatSG
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Leaf.png
+
+newmtl Log_Ends
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Log_Ends_Base_Color.png
+map_Ns Log_Ends_Roughness.png
+map_refl Log_Ends_Metallic.png
+map_Bump -bm 1.000000 Log_Ends_Normal_DirectX.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 390.625000
+Ka 1.000000 1.000000 1.000000
+Kd 0.111763 0.111763 0.111763
+Ks 0.550000 0.550000 0.550000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Top_Stones_low_Top_Stones_BaseColor.png
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Top_Stones_low_Top_Stones_BaseColor.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+
+newmtl Material.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.054
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksOld.jpg
+
+newmtl Material.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd woodblinds.jpg
+
+newmtl Material.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ocean.png
+
+newmtl Material.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd straw_Dirty.jpg
+
+newmtl Material.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd oranges.jpg
+
+newmtl Material.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Carrots.png
+
+newmtl Material.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Apples_1.jpg
+
+newmtl Material.096
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Tomatoes.jpg
+
+newmtl Material.097
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Potatoes3.jpg
+
+newmtl Material.098
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Raw-Meat-PNG-File.png
+
+newmtl Material.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Meat-PNG-Image.png
+
+newmtl Material.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd basket.png
+
+newmtl Material.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bread_Stick.png
+
+newmtl Material.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wpid-free-cheese-seamless-vector.jpg
+
+newmtl Material.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Crust-Bread-Texture.jpg
+
+newmtl Material.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Bottom_Base_Color.png
+
+newmtl Material.106
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Medieval_Table_Base_Color.png
+
+newmtl Material.107
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Log_main_Base_Color.png
+
+newmtl Material.108
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grain-barley.png
+
+newmtl Material.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grain-oats.png
+
+newmtl Meat_Hanging_Frame
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Meat_Hanging_Frame_Base_Color.png
+map_Ns Meat_Hanging_Frame_Roughness.png
+map_refl Meat_Hanging_Frame_Metallic.png
+map_Bump -bm 1.000000 Meat_Hanging_Frame_Normal_DirectX.png
+
+newmtl Meat_Hook
+Ns 340.277832
+Ka 1.000000 1.000000 1.000000
+Kd 0.022796 0.022796 0.022796
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Medieval_Table_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Medieval_Table_Base_Color.png
+map_Ns Medieval_Table_Roughness.png
+map_refl Medieval_Table_Metallic.png
+map_Bump -bm 1.000000 Medieval_Table_Normal_DirectX.png
+
+newmtl Medieval_Table_4
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Medieval_Table_Base_Color.png
+map_Ns Medieval_Table_Roughness.png
+map_refl Medieval_Table_Metallic.png
+map_Bump -bm 1.000000 Medieval_Table_Normal_DirectX.png
+
+newmtl Metal_Bands
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal_Bands_Base_Color.png
+map_Ns Metal_Bands_Roughness.png
+map_refl Metal_Bands_Metallic.png
+map_Bump -bm 1.000000 Metal_Bands_Normal_DirectX.png
+
+newmtl Metal_Barrel_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal_Barrel_1_Base_Color.png
+map_Ns Metal_Barrel_1_Roughness.png
+map_refl Metal_Barrel_1_Metallic.png
+map_Bump -bm 1.000000 Metal_Barrel_1_Normal_DirectX.png
+
+newmtl Metal_Barrel_1.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal_Barrel_1_Base_Color.png
+map_Ns Metal_Barrel_1_Roughness.png
+map_refl Metal_Barrel_1_Metallic.png
+map_Bump -bm 1.000000 Metal_Barrel_1_Normal_DirectX.png
+
+newmtl Metal_Barrel_band
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal_Barrel_band_Base_Color.png
+map_Ns Metal_Barrel_band_Roughness.png
+map_refl Metal_Barrel_band_Metallic.png
+map_Bump -bm 1.000000 Metal_Barrel_band_Normal_DirectX.png
+
+newmtl Metal_Barrel_band.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal_Barrel_band_Base_Color.png
+map_Ns Metal_Barrel_band_Roughness.png
+map_refl Metal_Barrel_band_Metallic.png
+map_Bump -bm 1.000000 Metal_Barrel_band_Normal_DirectX.png
+
+newmtl Minotaur_Base.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Minotaur_Base_Color.png
+map_Ns Minotaur_Base_Roughness.png
+map_d Minotaur_Base_Color.png
+
+newmtl Minotaur_Extras.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Minotaur_Extras_Color.png
+map_Ns Minotaur_Extras_Roughness.png
+map_refl Minotaur_Extras_Metallic.png
+map_d Minotaur_Extras_Color.png
+
+newmtl Roof_L
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_01_Roof_Roof_L_BaseColor.png
+map_Ns House_01_Roof_Roof_L_Roughness.png
+map_refl House_01_Roof_Roof_L_Metallic.png
+map_Bump -bm 1.000000 House_01_Roof_Roof_L_Normal.png
+
+newmtl Roof_M
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_01_Roof_Roof_M_BaseColor.png
+map_Ns House_01_Roof_Roof_M_Roughness.png
+map_refl House_01_Roof_Roof_M_Metallic.png
+map_Bump -bm 1.000000 House_01_Roof_Roof_M_Normal.png
+
+newmtl Roof_S
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House_01_Roof_Roof_S_BaseColor.png
+map_Ns House_01_Roof_Roof_S_Roughness.png
+map_refl House_01_Roof_Roof_S_Metallic.png
+map_Bump -bm 1.000000 House_01_Roof_Roof_S_Normal.png
+
+newmtl Stem_MatSG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stem.png
+map_Bump -bm 0.500000 Stem_Normal.png
+
+newmtl Stone_Column
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stone_Column_low_Stone_Column_BaseColor.png
+map_Ns Stone_Column_low_Stone_Column_Roughness.png
+map_refl Stone_Column_low_Stone_Column_Metallic.png
+map_Bump -bm 1.000000 Stone_Column_low_Stone_Column_Normal.png
+
+newmtl Stone_Top
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stone_Column_low_Stone_Top_BaseColor.png
+map_Ns Stone_Column_low_Stone_Top_Roughness.png
+map_refl Stone_Column_low_Stone_Top_Metallic.png
+map_Bump -bm 1.000000 Stone_Column_low_Stone_Top_Normal.png
+
+newmtl Stone_ring_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stone_Ring_low_Stone_ring_New_BaseColor.png
+map_Ns Stone_Ring_low_Stone_ring_New_Roughness.png
+map_refl Stone_Ring_low_Stone_ring_New_Metallic.png
+map_Bump -bm 1.000000 Stone_Ring_low_Stone_ring_New_Normal.png
+
+newmtl Top_Stones
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Top_Stones_low_Top_Stones_BaseColor.png
+map_Ns Top_Stones_low_Top_Stones_Roughness.png
+map_refl Top_Stones_low_Top_Stones_Metallic.png
+map_Bump -bm 1.000000 Top_Stones_low_Top_Stones_Normal.png
+
+newmtl Top_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Column_low_Top_New_BaseColor.png
+map_Ns Well_Column_low_Top_New_Roughness.png
+map_refl Well_Column_low_Top_New_Metallic.png
+map_Bump -bm 0.900000 Well_Column_low_Top_New_Normal.png
+
+newmtl Trank_bark
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Trank_bark.001
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Trank_bark.002
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Trank_bark.003
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Trank_bark.004
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Trank_bark.005
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd bark_0021.jpg
+
+newmtl Well.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd well_low_Well_BaseColor.png
+map_Ns well_low_Well_Roughness.png
+map_refl well_low_Well_Metallic.png
+map_Bump -bm 1.000000 well_low_Well_Normal.png
+
+newmtl Well_Column_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Column_low_Well_Column_New_BaseColor.png
+map_Ns Well_Column_low_Well_Column_New_Roughness.png
+map_refl Well_Column_low_Well_Column_New_Metallic.png
+map_Bump -bm 0.900000 Well_Column_low_Well_Column_New_Normal.png
+
+newmtl Well_Handle
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Handle_Base_Color.png
+map_Ns Well_Handle_Roughness.png
+map_refl Well_Handle_Metallic.png
+
+newmtl Well_Rims.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd well_low_Well_Rims_BaseColor.png
+map_Ns well_low_Well_Rims_Roughness.png
+map_refl well_low_Well_Rims_Metallic.png
+map_Bump -bm 1.000000 well_low_Well_Rims_Normal.png
+
+newmtl Well_Rims_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd well_low_Well_Rims_BaseColor.png
+map_Ns well_low_Well_Rims_Roughness.png
+map_refl well_low_Well_Rims_Metallic.png
+map_Bump -bm 1.000000 well_low_Well_Rims_Normal.png
+
+newmtl Well_Roof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Roof_Base_Color.png
+map_Ns Well_Roof_Roughness.png
+map_refl Well_Roof_Metallic.png
+map_Bump -bm 1.000000 Well_Roof_Normal_DirectX.png
+
+newmtl Well_Rope
+Ns 180.624954
+Ka 1.000000 1.000000 1.000000
+Kd 0.026926 0.016433 0.004422
+Ks 0.133333 0.133333 0.133333
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Well_Steps_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Well_Steps_low_Well_Steps_New_BaseColor.png
+map_Ns Well_Steps_low_Well_Steps_New_Roughness.png
+map_refl Well_Steps_low_Well_Steps_New_Metallic.png
+map_Bump -bm 0.800000 Well_Steps_low_Well_Steps_New_Normal.png
+
+newmtl Well_new
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd well_low_Well_BaseColor.png
+map_Ns well_low_Well_Roughness.png
+map_refl well_low_Well_Metallic.png
+map_Bump -bm 1.000000 well_low_Well_Normal.png
+
+newmtl Wheel_Shaft_001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wheel_Shaft.001_Base_Color.png
+map_Ns Wheel_Shaft.001_Roughness.png
+map_refl Wheel_Shaft.001_Metallic.png
+map_Bump -bm 1.000000 Wheel_Shaft.001_Normal_DirectX.png
+
+newmtl WoodenBox_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+map_Ns WoodPlanksWorn19_GLOSS_1K.jpg
+map_refl WoodPlanksWorn19_REFL_1K.jpg
+map_Bump -bm 1.000000 WoodPlanksWorn19_NRM_1K.jpg
+
+newmtl WoodenBox_1.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+map_Ns WoodPlanksWorn19_GLOSS_1K.jpg
+map_refl WoodPlanksWorn19_REFL_1K.jpg
+map_Bump -bm 1.000000 WoodPlanksWorn19_NRM_1K.jpg
+
+newmtl WoodenBox_1.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WoodPlanksWorn19_COL_VAR1_1K.jpg
+map_Ns WoodPlanksWorn19_GLOSS_1K.jpg
+map_refl WoodPlanksWorn19_REFL_1K.jpg
+map_Bump -bm 1.000000 WoodPlanksWorn19_NRM_1K.jpg
+
+newmtl Wooden_Barrel.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Barrel_Base_Color.png
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_10
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_11
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_12.002
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_2
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_3
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Barrel_Base_Color.png
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_5
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Barrel_Base_Color.png
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_6
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_7
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_8
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Barrel_9
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Barrel_Base_Color.png
+map_Ns Wooden_Barrel_Roughness.png
+map_refl Wooden_Barrel_Metallic.png
+map_Bump -bm 1.000000 Wooden_Barrel_Normal_DirectX.png
+
+newmtl Wooden_Bowl_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Bowl_Base_Color.png
+map_Ns Wooden_Bowl_Roughness.png
+map_refl Wooden_Bowl_Metallic.png
+map_Bump -bm 1.000000 Wooden_Bowl_Normal_DirectX.png
+
+newmtl Wooden_Cup
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Cup_Base_Color.png
+map_Ns Wooden_Cup_Roughness.png
+map_refl Wooden_Cup_Metal_Metallic.png
+map_Bump -bm 1.000000 Wooden_Cup_Normal_DirectX.png
+
+newmtl Wooden_Cup_Metal
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Cup_Metal_Base_Color.png
+map_Ns Wooden_Cup_Metal_Roughness.png
+map_refl Wooden_Cup_Metal_Metallic.png
+map_Bump -bm 1.000000 Wooden_Cup_Metal_Normal_DirectX.png
+
+newmtl Wooden_Plate_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wooden_Plate_1_Base_Color.png
+map_Ns Wooden_Plate_1_Roughness.png
+map_refl Wooden_Plate_1_Metallic.png
+map_Bump -bm 1.000000 Wooden_Plate_1_Normal_DirectX.png
+
+newmtl bench_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 1_Base_color.png
+map_Ns bench 1_Roughness.png
+map_refl bench 1_Metallic.png
+map_Bump -bm 1.000000 bench 1_Normal.png
+
+newmtl bench_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 1_Base_color.png
+map_Ns bench 1_Roughness.png
+map_refl bench 1_Metallic.png
+map_Bump -bm 1.000000 bench 1_Normal.png
+
+newmtl bench_1.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 1_Base_color.png
+map_Ns bench 1_Roughness.png
+map_refl bench 1_Metallic.png
+map_Bump -bm 1.000000 bench 1_Normal.png
+
+newmtl bench_2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 2_Base_color.png
+map_Ns bench 2_Roughness.png
+map_refl bench 2_Metallic.png
+map_Bump -bm 1.000000 bench 2_Normal.png
+
+newmtl bench_2.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 2_Base_color.png
+map_Ns bench 2_Roughness.png
+map_refl bench 2_Metallic.png
+map_Bump -bm 1.000000 bench 2_Normal.png
+
+newmtl bench_2.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 2_Base_color.png
+map_Ns bench 2_Roughness.png
+map_refl bench 2_Metallic.png
+map_Bump -bm 1.000000 bench 2_Normal.png
+
+newmtl bench_3
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 3_Base_color.png
+map_Ns bench 3_Roughness.png
+map_refl bench 3_Metallic.png
+map_Bump -bm 1.000000 bench 3_Normal.png
+
+newmtl bench_3.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 3_Base_color.png
+map_Ns bench 3_Roughness.png
+map_refl bench 3_Metallic.png
+map_Bump -bm 1.000000 bench 3_Normal.png
+
+newmtl bench_3.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench 3_Base_color.png
+map_Ns bench 3_Roughness.png
+map_refl bench 3_Metallic.png
+map_Bump -bm 1.000000 bench 3_Normal.png
+
+newmtl board.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd board_Base_color.png
+map_Ns board_Roughness.png
+map_refl board_Metallic.png
+map_Bump -bm 1.000000 board_Normal_OpenGL.png
+
+newmtl board.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd board_Base_color.png
+map_Ns board_Roughness.png
+map_refl board_Metallic.png
+map_Bump -bm 1.000000 board_Normal_OpenGL.png
+
+newmtl board.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd board_Base_color.png
+map_Ns board_Roughness.png
+map_refl board_Metallic.png
+map_Bump -bm 1.000000 board_Normal_OpenGL.png
+
+newmtl body_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 1_Base_color.png
+map_Ns body 1_Roughness.png
+map_refl body 1_Metallic.png
+map_Bump -bm 1.000000 body 1_Normal.png
+
+newmtl body_1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 1_Base_color.png
+map_Ns body 1_Roughness.png
+map_refl body 1_Metallic.png
+map_Bump -bm 1.000000 body 1_Normal.png
+
+newmtl body_1.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 1_Base_color.png
+map_Ns body 1_Roughness.png
+map_refl body 1_Metallic.png
+map_Bump -bm 1.000000 body 1_Normal.png
+
+newmtl body_2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 2_Base_color.png
+map_Ns body 2_Roughness.png
+map_refl body 2_Metallic.png
+map_Bump -bm 1.000000 body 2_Normal.png
+
+newmtl body_2.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 2_Base_color.png
+map_Ns body 2_Roughness.png
+map_refl body 2_Metallic.png
+map_Bump -bm 1.000000 body 2_Normal.png
+
+newmtl body_2.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd body 2_Base_color.png
+map_Ns body 2_Roughness.png
+map_refl body 2_Metallic.png
+map_Bump -bm 1.000000 body 2_Normal.png
+
+newmtl bottom.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bottom_Base_color.png
+map_Ns bottom_Roughness.png
+map_refl bottom_Metallic.png
+map_Bump -bm 1.000000 bottom_Normal.png
+
+newmtl bottom.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bottom_Base_color.png
+map_Ns bottom_Roughness.png
+map_refl bottom_Metallic.png
+map_Bump -bm 1.000000 bottom_Normal.png
+
+newmtl bottom.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bottom_Base_color.png
+map_Ns bottom_Roughness.png
+map_refl bottom_Metallic.png
+map_Bump -bm 1.000000 bottom_Normal.png
+
+newmtl material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grain-oats.png
+
+newmtl paddle_
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd paddle 1_Base_color.png
+map_Ns paddle 1_Roughness.png
+map_refl paddle 1_Metallic.png
+map_Bump -bm 1.000000 paddle 1_Normal.png
+
+newmtl paddle_.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd paddle 1_Base_color.png
+map_Ns paddle 1_Roughness.png
+map_refl paddle 1_Metallic.png
+map_Bump -bm 1.000000 paddle 1_Normal.png
+
+newmtl paddle_.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd paddle 1_Base_color.png
+map_Ns paddle 1_Roughness.png
+map_refl paddle 1_Metallic.png
+map_Bump -bm 1.000000 paddle 1_Normal.png
+
+newmtl the_bow_of_the_boat
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd the bow of the boat_Base_color.png
+map_Ns the bow of the boat_Roughness.png
+map_refl the bow of the boat_Metallic.png
+map_Bump -bm 1.000000 the bow of the boat_Normal.png
+
+newmtl the_bow_of_the_boat.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd the bow of the boat_Base_color.png
+map_Ns the bow of the boat_Roughness.png
+map_refl the bow of the boat_Metallic.png
+map_Bump -bm 1.000000 the bow of the boat_Normal.png
+
+newmtl the_bow_of_the_boat.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd the bow of the boat_Base_color.png
+map_Ns the bow of the boat_Roughness.png
+map_refl the bow of the boat_Metallic.png
+map_Bump -bm 1.000000 the bow of the boat_Normal.png
